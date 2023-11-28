@@ -1,4 +1,4 @@
-package com.example.tplistviewsimple
+package com.example.todolistkotlin
 
 import org.junit.Test
 
